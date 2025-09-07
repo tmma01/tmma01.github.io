@@ -39,7 +39,7 @@
   <h2>Contact</h2>
   <ul>
     <li>Email: <a href="mailto:talmeida@stevens.edu">talmeida@stevens.edu</a></li>
-    <li>LinkedIn: <a href="https://linkedin.com/in/YOUR-LINK">linkedin.com/in/YOUR-LINK</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/tiago-mateus-moreira-de-almeida-665415352/">https://www.linkedin.com/in/tiago-mateus-moreira-de-almeida-665415352/</a></li>
     <li><a href="Tiago_Almeida_CV.pdf">Download CV</a></li>
   </ul>
 </body>
