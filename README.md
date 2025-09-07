@@ -1,48 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Tiago Almeida</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Orbitron', sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    img {
-      border-radius: 50%;
-    }
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: flex-start;
-    }
-    .text { flex: 1; }
-    .image { margin-left: 20px; }
-  </style>
-</head>
-<body>
-  <h1>Tiago Almeida</h1>
-  <div class="container">
-    <div class="text">
-      <p>Hello! I am a sophomore at Stevens Institute of Technology pursuing a B.S. in Computer Science with a strong focus on artificial intelligence, machine learning, and natural language processing.</p>
-      <p>Currently, I am a Research Assistant at the Explainable and Controllable AI Lab, where I work on mechanistic interpretability of large language models (LLMs) for safer and more explainable AI under Dr. Zining Zhu. My dream is to reverse-engineer the mind itself, working on the mind-body, AI alignment, and superintelligence problems along the way.</p>
-    </div>
-    <div class="image">
-      <img src="tiago_profile.jpeg" alt="Tiago Almeida" width="180">
-    </div>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+  body {
+    font-family: 'Orbitron', sans-serif;
+    line-height: 1.6;
+  }
+</style>
+
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="flex: 1;">
+    <p>
+      Hello! I am a sophomore at Stevens Institute of Technology pursuing a B.S. in Computer Science with a strong focus on artificial intelligence, machine learning, and natural language processing.
+    </p>
+    <p>
+      Currently, I am a Research Assistant at the Explainable and Controllable AI Lab, where I work on mechanistic interpretability of large language models (LLMs) for safer and more explainable AI under Dr. Zining Zhu. Through my research, I have learned that LLMs are beyond just "Black Boxes"; by reverse-engineering the internal components of machine learning models, researchers can begin to truly understand the role of the inner workings of AI systems. My dream is to reverse-engineer the mind itself, working on the mind-body, AI alignment, and superintelligence problems along the way.
+    </p>
   </div>
 
-  <h2>Contact</h2>
-  <ul>
-    <li>Email: <a href="mailto:talmeida@stevens.edu">talmeida@stevens.edu</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/tiago-mateus-moreira-de-almeida-665415352/">https://www.linkedin.com/in/tiago-mateus-moreira-de-almeida-665415352/</a></li>
-    <li><a href="Tiago_Almeida_CV.pdf">Download CV</a></li>
-  </ul>
-</body>
-</html>
+  <div style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/tmma01/tmma01.github.io/main/tiago_profile.jpeg" alt="Tiago Almeida" width="180" style="border-radius: 50%;">
+  </div>
+
+</div>
+
+---
+
+## Contact
+
+- **Email:** [talmeida@stevens.edu](mailto:talmeida@stevens.edu)  
+- **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)  
+- **CV:** [Download CV](https://raw.githubusercontent.com/tmma01/tmma01.github.io/main/Tiago_Almeida_CV.pdf)
 
 
