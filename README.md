@@ -30,6 +30,6 @@
 
 - **Email:** [talmeida@stevens.edu](mailto:talmeida@stevens.edu)  
 - **LinkedIn:** [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)  
-- **CV:** [Download CV](https://raw.githubusercontent.com/tmma01/tmma01.github.io/main/Tiago_Almeida_CV.pdf)
+- **CV:** [Download CV](https://raw.githubusercontent.com/tmma01/tmma01.github.io/main/Tiago_Almeida_Resume.pdf)
 
 
